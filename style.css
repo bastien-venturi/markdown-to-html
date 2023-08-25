@@ -1,3 +1,13 @@
-h1 {
-    color: red;
+h1,h3 {
+    color: rgb(70, 72, 163);
   }
+
+  h2 {
+    color: rgb(1, 2, 59);
+  }
+
+  td /* Toutes les cellules des tableaux... */
+{
+    border: 1px solid black;
+    padding: 15px; 
+}
